@@ -8,3 +8,4 @@ Day 4: Reviewed array methods, object methods, and loops in JavaScript.
 Day 5: Drawing a random card using functions in JavaScript.
 Day 6 of #100DaysOfCode: Function scope, block scope, and lexical scope in JavaScript.
 Day 7: Function statements, function expressions, callback functions, and higher-order functions in JavaScript.
+Day 8: Hoisting, array callback methods 'forEach' and 'map', arrow functions, and implicit returns in JavaScript.
