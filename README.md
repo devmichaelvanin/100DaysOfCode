@@ -15,3 +15,4 @@ Day 11: Reviewed functions generally in JavaScript. Also built a clock app using
 Day 12: Worked on my own website for my freelancing business; listened to a few episodes of #syntaxfm.
 Day 13: setTimout(), setInterval(), clearInterval(), alert(), confirm(), prompt(), getElementById(), getElementsByTagName(), getElementsByClassName(), and classList.add() in JavaScript; researched static website generators and the JAM stack.
 Day 14: default function parameters and spread in JavaScript.
+Day 15: the arguments object and rest parameters in JavaScript. 
