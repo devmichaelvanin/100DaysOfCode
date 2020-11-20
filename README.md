@@ -17,3 +17,5 @@ Day 13: setTimout(), setInterval(), clearInterval(), alert(), confirm(), prompt(
 Day 14: default function parameters and spread in JavaScript.
 Day 15: the arguments object and rest parameters in JavaScript. 
 Day 16: destructruring arrays and objects, nested destructuring, and destructuring parameters in JavaScript. Also reviewed several recently-learned JS topics.
+Day 17: shorthand object properties, computed properties, constructors, and the 'this' keyword in JavaScript.
+Day 18: reading through Bootstrap 4 documentation; working on building my own Bootstrap webpage themes for future client work.
