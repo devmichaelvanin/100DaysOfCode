@@ -20,3 +20,4 @@ Day 16: destructruring arrays and objects, nested destructuring, and destructuri
 Day 17: shorthand object properties, computed properties, constructors, and the 'this' keyword in JavaScript.
 Day 18: reading through Bootstrap 4 documentation; working on building my own Bootstrap webpage themes for future client work.
 Day 19: studied object-oriented programming: abstraction, encapsulation, inheritance, and polymorphism.
+Day 20: started new course on PHP & WordPress.
