@@ -21,3 +21,4 @@ Day 17: shorthand object properties, computed properties, constructors, and the 
 Day 18: reading through Bootstrap 4 documentation; working on building my own Bootstrap webpage themes for future client work.
 Day 19: studied object-oriented programming: abstraction, encapsulation, inheritance, and polymorphism.
 Day 20: started new course on PHP & WordPress.
+Day 21: continued course on PHP & WordPress.
