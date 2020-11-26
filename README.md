@@ -24,3 +24,4 @@ Day 20: started new course on PHP & WordPress.
 Day 21: continued course on PHP & WordPress.
 Day 22: Paused "Become a WordPress Developer" Udemy course to start and complete 5.5-hour "WordPress for Beginners" Udemy course today & worked on a website for a client.
 Day 23: reviewed functions, objects and arrays in JavaScript.
+Day 24: leaned some things in WordPress, PHP & JavaScript; Became more familiar with using Git Bash and GitHub.
