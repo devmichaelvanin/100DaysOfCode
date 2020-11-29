@@ -26,4 +26,4 @@ Day 22: Paused "Become a WordPress Developer" Udemy course to start and complete
 Day 23: reviewed functions, objects and arrays in JavaScript.
 Day 24: leaned some things in WordPress, PHP & JavaScript; Became more familiar with using Git Bash and GitHub.
 Day 25: Became more familiar with using Node.js, npm, and Webpack.
-Day 25: Custom post types in WordPress.
+Day 25: Custom post types and Dashicons in WordPress.
