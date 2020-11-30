@@ -27,3 +27,6 @@ Day 23: reviewed functions, objects and arrays in JavaScript.
 Day 24: leaned some things in WordPress, PHP & JavaScript; Became more familiar with using Git Bash and GitHub.
 Day 25: Became more familiar with using Node.js, npm, and Webpack.
 Day 25: Custom post types, Dashicons, and Must Use Pluginns in WordPress.
+Day 26: Custom post types, Dashicons, and Must Use Plugins in WordPress.
+Day 27: Built a new homepage for my business using WordPress.
+Day 28: Gained proficiency in OAuth and Google Analytics.
