@@ -30,3 +30,4 @@ Day 25: Custom post types, Dashicons, and Must Use Pluginns in WordPress.
 Day 26: Custom post types, Dashicons, and Must Use Plugins in WordPress.
 Day 27: Built a new homepage for my business using WordPress.
 Day 28: Gained proficiency in OAuth and Google Analytics.
+Day 29: Back on after a busy few, started new course featuring 50 projects in 50 days to sharpen my HTML, CSS & JS skills.
