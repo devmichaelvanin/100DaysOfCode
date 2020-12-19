@@ -31,3 +31,5 @@ Day 26: Custom post types, Dashicons, and Must Use Plugins in WordPress.
 Day 27: Built a new homepage for my business using WordPress.
 Day 28: Gained proficiency in OAuth and Google Analytics.
 Day 29: Back on after a busy few, started new course featuring 50 projects in 50 days to sharpen my HTML, CSS & JS skills.
+Day 30: Aware now of the inefficiency of attempting to learn so many things at once & the difficulty of retaining information that I do not use. New plan is to focus on one thing at a time until I really understand it & can use it practically. Advanced HTML today.
+Day 31: Good review of lots of HTML elements that I seldom use to make my markup more semantically meaningful and accessible. Gaining new proficiencies in web accessibility, meta tag attributes, and browser compatibility.
